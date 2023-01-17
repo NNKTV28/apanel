@@ -10,7 +10,7 @@ Apanel is mean (A)dmin (Panel) you can do scan admin panel of a site. I modified
 
 # Install
 ```
-git clone https://github.com/galihap76/apanel.git
+https://github.com/NNKTV28/apanel.git
 cd apanel
 pip install -r requirements.txt
 ```
